@@ -1,0 +1,2 @@
+# Naruto_Characters_Classification
+The **Naruto_Characters_Classification Project** is a multi class classification project with a final aim of being able to classify among over 50 classes.
