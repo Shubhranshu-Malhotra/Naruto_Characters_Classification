@@ -8,4 +8,4 @@ The **Naruto_Characters_Classification Project** is a multi class classification
 Decoding the commit version of the pilot project 1:   
 **Commit `Tasks completed`.`Concerns Indentified`.`Concerns solved`**
 
-Pilot project 1 and pilot project 2 are the buildup to the main project and are being built as a proof of concept and for learning purposes.
+Pilot project 1 and pilot project 2 are buildups to the main project and are being made as a proof of concept and for learning purposes.
